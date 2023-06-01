@@ -1,0 +1,27 @@
+#header-i {
+  display: flex;
+  float: right;
+  margin: 50px;
+}
+
+#mid-img {
+  text-align: center;
+}
+
+#mid-h {
+  margin: 0px;
+  flex-wrap: wrap;
+  text-align: left;
+}
+
+#list {
+  margin: 15px;
+  margin-left: 100px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+}
